@@ -1,2 +1,2 @@
 def md():
-    print('new Content')
+    print('merge')
